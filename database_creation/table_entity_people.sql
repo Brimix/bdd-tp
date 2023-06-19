@@ -14,5 +14,7 @@ VALUES
 	(5, 'Vicky', 'Huber'),
 	(6, 'Martin', 'Pissia'),
 	(7, 'Pau', 'Schlaien'),
-	(8, 'Waly', 'Wagner');
+	(8, 'Waly', 'Wagner'),
+	(9, 'Fede', 'Russo');
+
 
