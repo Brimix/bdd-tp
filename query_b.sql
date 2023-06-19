@@ -4,7 +4,7 @@ SELECT person_id, beer_id
  WHERE f.person_id = s.person_id;
 
 
-SELECT name
+SELECT first_name
   FROM people
  WHERE id
     IN (SELECT person_id
@@ -17,7 +17,7 @@ SELECT name
 /* Update after solving c */
 /* Solution using likes_bar */
 
-SELECT name
+SELECT first_name
   FROM people as p
  WHERE EXISTS
        (SELECT *
