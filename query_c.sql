@@ -5,7 +5,7 @@ SELECT UNIQUE person_id, bar_id
 
 
 
-SELECT name
+SELECT first_name
   FROM people as p
  WHERE NOT EXISTS
        (

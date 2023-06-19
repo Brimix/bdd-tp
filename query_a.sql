@@ -6,4 +6,4 @@ SELECT *
          WHERE person_id
             IN (SELECT id
                   FROM people
-                 WHERE name = "Brian"));
+                 WHERE first_name = "Brian"));
