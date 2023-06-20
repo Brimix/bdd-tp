@@ -15,6 +15,6 @@ VALUES
 	(6, 'Martin', 'Pissia'),
 	(7, 'Pau', 'Schlaien'),
 	(8, 'Waly', 'Wagner'),
-	(9, 'Fede', 'Russo');
+	(9, 'Valentin', 'Russo');
 
 
